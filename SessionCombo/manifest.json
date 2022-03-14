@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "sessioncombo",
+  "name": "SessionCombo",
+  "author": "headassbtw",
+  "version": "1.0.0",
+  "description": "Changes the combo counter to persist between levels, like in \"In The Groove\"",
+  "gameVersion": "1.20.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.0",
+    "BeatSaberMarkupLanguage": "^1.5.12",
+    "SiraUtil": "^3.0.0"
+  }
+}

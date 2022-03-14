@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionCombo", "SessionCombo\SessionCombo.csproj", "{777701F1-7224-43F2-81C2-CF4D2BA87928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777701F1-7224-43F2-81C2-CF4D2BA87928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777701F1-7224-43F2-81C2-CF4D2BA87928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777701F1-7224-43F2-81C2-CF4D2BA87928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777701F1-7224-43F2-81C2-CF4D2BA87928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
